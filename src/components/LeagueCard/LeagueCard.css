@@ -1,0 +1,18 @@
+.card-container {
+  display: flex;
+  flex-direction: row;
+  height: 100px;
+  width: 300px;
+}
+
+.btn-card {
+  height: 20px;
+  width: 50px;
+}
+.title-league {
+  font-size: 20;
+  font-weight: 500;
+}
+.decription-txt {
+  font-size: 14;
+}
